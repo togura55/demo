@@ -1,0 +1,15 @@
+Program Name:
+Bxttool
+
+App Type:
+Windows .NET Form App
+
+Features:
+- Read specified PDF file including BaXter
+- Read field data from XMP/BaXter
+- Display enumarated field data on UI
+- Export field data to CSV file
+
+
+
+

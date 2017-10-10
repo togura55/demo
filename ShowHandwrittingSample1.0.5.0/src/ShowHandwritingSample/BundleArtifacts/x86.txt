@@ -1,0 +1,2 @@
+MainPackage=C:\Users\satoshi\Documents\develop\Barbera\ShowHandwritingSample\bin\x86\Release\ShowHandwritingSample_1.0.5.0_x86.appx
+SymbolPackage=C:\Users\satoshi\Documents\develop\Barbera\ShowHandwritingSample\AppPackages\ShowHandwritingSample_1.0.5.0_Test\ShowHandwritingSample_1.0.5.0_x86.appxsym
