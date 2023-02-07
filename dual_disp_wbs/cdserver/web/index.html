@@ -1,0 +1,40 @@
+<!-- Entry page -->
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>2画面Webサービスデモ</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+
+    <!-- <script type="text/javascript" src="app.js"></script> -->
+  </head>
+  <body>
+    <div class="wrapper">
+      <section class="main">
+        <h1>問題</h1>
+        <div class="archive">
+          <div>
+            <img src="./assets/0.png" alt="no-img" id="q_sheet" />
+          </div>
+        </div>
+      </section>
+      <section class="side">
+        <h2>問題リスト</h2>
+        <ul>
+          <!-- <li><a href="./index.html?param=1">Q1</a></li> -->
+          <li>
+            <a href="javascript:OnLinkClick('./index.html?param=1', '/ans/index.html?param=1');">Q1</a>
+          </li>
+          <li>
+            <a href="javascript:OnLinkClick('./index.html?param=2', '/ans/ans.html');">Q2</a>
+          </li>
+          <li>
+            <a href="javascript:OnLinkClick('./index.html?param=3', '/ans/index.html?param=3');">Q3</a>
+          </li>
+        </ul>
+      </section>
+    </div>
+
+    <script type="text/javascript" src="scripts/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+/* 2カラムサイトにする */
+.wrapper {
+    width: 80%;
+    display: flex;
+    margin: 20px auto;
+    justify-content: center;
+}
+
+.main, .side {
+    padding: 20px;
+}
+
+.main {
+    background: lightgray;
+    width: 60%;
+    margin-right: 10px;
+}
+
+.side {
+    background: gray;
+    width: 20%;
+}
+
+.side p, ul {
+    background-color: #f0f0f0;
+    padding: 30px;
+}
+
+/* 2カラムコンテンツにする */
+
+.archive {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.archive div {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    width: 100%;
+    background-color: #f0f0f0;
+}
+
+.archive img {
+    display: block;
+    margin-bottom: 1rem;
+    width: 100%;
+    height: auto;
+}

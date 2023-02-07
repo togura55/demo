@@ -1,0 +1,17 @@
+
+.main {
+    max-width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 30px;
+    background: lightgray;
+}
+
+.sub {
+    text-align: left;
+}
+
+#canvas_ans {
+    border: solid;
+    touch-action: none;
+}

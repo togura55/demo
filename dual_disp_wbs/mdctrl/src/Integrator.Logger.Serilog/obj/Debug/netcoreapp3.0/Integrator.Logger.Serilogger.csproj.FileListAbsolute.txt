@@ -1,0 +1,19 @@
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\bin\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.deps.json
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\bin\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.dll
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\bin\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.pdb
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.AssemblyInfoInputs.cache
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.AssemblyInfo.cs
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.csproj.CoreCompileInputs.cache
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.dll
+C:\Users\togur\Documents\GitHub\training\sdk-for-multi-display-main-1.2.1\Sample Code\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.pdb
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\bin\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.deps.json
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\bin\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.dll
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\bin\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.pdb
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.csproj.AssemblyReference.cache
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.AssemblyInfoInputs.cache
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.AssemblyInfo.cs
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.csproj.CoreCompileInputs.cache
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.dll
+C:\Users\togur\Documents\GitHub\training\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\obj\Debug\netcoreapp3.0\Integrator.Logger.Serilogger.pdb
