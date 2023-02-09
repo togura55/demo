@@ -6,8 +6,14 @@ const app = express(); // expressアプリを生成する
 app.use(multer().none()); // multerでブラウザ(client)から送信されたデータを解釈する
 app.use(express.static('web')); // 'web'フォルダ下の静的ファイルを公開/提供する
 
-const port = 3000;    // port number (default)
+let port = 3000;    // port number (default)
 let urlString = "";
+
+const port_num = process.argv[2];
+if(port_num){
+    console.log("arg: " + port_num);
+    port = parseInt(port_num);
+};
 
 // /url アクセスしてきたときに
 // URL stringを返す

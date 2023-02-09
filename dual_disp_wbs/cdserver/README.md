@@ -1,8 +1,8 @@
 
 # Cdserver: Contents Delivery Server
 
-[![Node.js](https://img.shields.io/pypi/v/universal-ink-library.svg)](https://pypi.python.org/pypi/universal-ink-library)
-[![npm](https://img.shields.io/pypi/pyversions/universal-ink-library.svg)](https://pypi.python.org/pypi/universal-ink-library)
+[![Node.js](https://img.shields.io/node/v/universal-ink-library.svg)](https://nodejs.org/ja/download/)
+[![npm](https://img.shields.io/npm/v/universal-ink-library.svg)](https://www.npmjs.com/package/download)
 [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://developer-docs.wacom.com/sdk-for-ink/docs/model) 
 
 Description of the program in here
@@ -21,18 +21,18 @@ At the Node and NPM aveirable environment, execute following setup.
 ## Quick Start
 
 ``
-    $ npm run dev
+    $ 'npm run dev' option
 ``
 
 where:
 
---option: option switch if nessesary
+--option: Specified port number, ex. 3001
 
 <br>
 
 ## Instruction
 
-In default, the web server as localhost:3000 is running and can access from the browser.
+In default, the web server as localhost:3000 runs and can access from the browser.
 
 <br>
 
