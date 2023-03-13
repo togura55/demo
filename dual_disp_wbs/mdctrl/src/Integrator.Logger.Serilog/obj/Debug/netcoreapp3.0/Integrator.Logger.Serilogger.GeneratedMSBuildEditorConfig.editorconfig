@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Integrator.Logger.Serilogger
+build_property.ProjectDir = C:\Users\togur\Documents\GitHub\demo\dual_disp_wbs\mdctrl\src\Integrator.Logger.Serilog\

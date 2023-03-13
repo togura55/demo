@@ -1755,23 +1755,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tsuyoshi.ogura\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\togur\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsuyoshi.ogura\\Documents\\GitHub\\training\\dual_disp_wbs\\mdctrl\\src\\Integrator.Logger.Serilog\\Integrator.Logger.Serilogger.csproj",
+      "projectUniqueName": "C:\\Users\\togur\\Documents\\GitHub\\demo\\dual_disp_wbs\\mdctrl\\src\\Integrator.Logger.Serilog\\Integrator.Logger.Serilogger.csproj",
       "projectName": "Integrator.Logger.Serilogger",
-      "projectPath": "C:\\Users\\tsuyoshi.ogura\\Documents\\GitHub\\training\\dual_disp_wbs\\mdctrl\\src\\Integrator.Logger.Serilog\\Integrator.Logger.Serilogger.csproj",
-      "packagesPath": "C:\\Users\\tsuyoshi.ogura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsuyoshi.ogura\\Documents\\GitHub\\training\\dual_disp_wbs\\mdctrl\\src\\Integrator.Logger.Serilog\\obj\\",
+      "projectPath": "C:\\Users\\togur\\Documents\\GitHub\\demo\\dual_disp_wbs\\mdctrl\\src\\Integrator.Logger.Serilog\\Integrator.Logger.Serilogger.csproj",
+      "packagesPath": "C:\\Users\\togur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\togur\\Documents\\GitHub\\demo\\dual_disp_wbs\\mdctrl\\src\\Integrator.Logger.Serilog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\tsuyoshi.ogura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\togur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1781,9 +1783,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\tsuyoshi.ogura\\Documents\\GitHub\\training\\dual_disp_wbs\\mdctrl\\libs": {},
-        "C:\\Users\\tsuyoshi.ogura\\OneDrive - Wacom AAD\\SDKs\\GSV\\DataConversion\\FSSC\\FssConverter\\packages\\Wacom.Biometric.1.1.1": {},
-        "C:\\Users\\tsuyoshi.ogura\\OneDrive - Wacom AAD\\SDKs\\WILLInk\\Win\\UWP\\sdk-for-ink-windows-4.1.2\\NuGets": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
