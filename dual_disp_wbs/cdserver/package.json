@@ -1,6 +1,6 @@
 {
   "name": "cdserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Contents delivery server for Ddwbs",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "dependencies": {
     "node": ">=20.0.0",
     "express": "^4.18.2",
-    "multer": "^1.4.5-lts.1",
+    "multer": "^2.0.2",
     "uuid": "^9.0.0"
   }
 }
