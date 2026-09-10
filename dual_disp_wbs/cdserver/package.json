@@ -1,6 +1,6 @@
 {
   "name": "cdserver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Contents delivery server for Ddwbs",
   "main": "index.js",
   "scripts": {
